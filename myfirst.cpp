@@ -7,4 +7,7 @@ int main ()
     cout << endl ; 
     cout << " Kak dela?" << endl ; 
     cin.get();
-    return 0; }
+    return 0; }    
+
+
+// 123456
