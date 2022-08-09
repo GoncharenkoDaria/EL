@@ -3,7 +3,7 @@
 int main ( )
 {
 using namespace std;
-double area;
+double area;   // --при int только целые значения
 cout << "Сколько квадратных метров в твоей комнате: " ;
 cin >> area ;
 double side;
