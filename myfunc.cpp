@@ -1,5 +1,5 @@
 # include <iostream> 
-void myfunc (int); // --прототип функции, тип ввода и вывода
+void myfunc ( int); // --прототип функции, тип ввода и вывода
 int main () 
 {
 
