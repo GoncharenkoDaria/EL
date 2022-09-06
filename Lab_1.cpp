@@ -1,4 +1,4 @@
-// Lab_1_Goncharenko.
+//Lab_1_Goncharenko.
 
 #include <iostream>
 #include <cmath>
